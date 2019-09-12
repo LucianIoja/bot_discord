@@ -1,0 +1,30 @@
+{
+  "name": "dok",
+  "version": "1.0.0",
+  "description": "Murio bo$$ul valorosu vostru",
+  "main": "my_bot.js",
+  "dependencies": {
+    "discord-youtube-api": "^0.1.0",
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "discord.js-musicbot-addon": "^13.4.5",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "opusscript": "0.0.6",
+    "save": "^2.3.3",
+    "simple-youtube-api": "^5.2.1",
+    "youtube": "^0.1.0",
+    "ytdl-core": "^0.29.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wjat.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "dontknow"
+  }
+}
